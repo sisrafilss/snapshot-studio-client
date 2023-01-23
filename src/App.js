@@ -1,10 +1,9 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to Photography Website</h1>
+      <h1>Welcome to <a href="https://snapshot-studio-client.vercel.app/">Snapshot Studio</a></h1>
     </div>
   );
 }
